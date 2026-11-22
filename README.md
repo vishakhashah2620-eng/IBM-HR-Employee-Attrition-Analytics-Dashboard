@@ -118,7 +118,7 @@ The dashboard can help HR teams:
 - Support employee retention planning.
 - Make data-driven HR decisions instead of relying only on assumptions.
 
- 11.Screenshots / Demos -
+ 11.Screenshots / Demos -https://github.com/vishakhashah2620-eng/IBM-HR-Employee-Attrition-Analytics-Dashboard/blob/main/Screenshot%202026-11-21%20135647.png
 
 
 
